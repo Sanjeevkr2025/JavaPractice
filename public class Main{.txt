@@ -1,0 +1,8 @@
+public class Main{
+    public static void main(String[]args){
+        int marks=60;
+        if(marks>=55){
+            System.out.println("pass");
+        }
+    }
+}
